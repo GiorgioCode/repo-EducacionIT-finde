@@ -10,7 +10,7 @@ Material desarrollado para el curso "JavaScript desde Cero" de EducaciónIT
 
 # CLASE 01 - Introducción, Tipos de datos, Variables y Operadores.
 
-[![VER CODIGO](https://tutoriasjs.netlify.app/boton_vercodigo.png)](https://github.com/GiorgioCode/repo-educacionIT-semana/tree/main/CLASE_01) [![DESCARGAR PRESENTACIÓN](https://raw.githubusercontent.com/GiorgioCode/repo-educacionIT-finde/main/boton_diapositiva.png?token=GHSAT0AAAAAABYJWQ5N6CK2LUWKAMIMLJQCYZRBTFA)](https://github.com/GiorgioCode/repo-educacionIT-finde/blob/main/CLASE_01/CLASE1_JSDC_J_PAEZ.pptx?raw=true)
+[![VER CODIGO](https://tutoriasjs.netlify.app/boton_vercodigo.png)](https://github.com/GiorgioCode/repo-educacionIT-finde/tree/main/CLASE_01) [![DESCARGAR PRESENTACIÓN](https://raw.githubusercontent.com/GiorgioCode/repo-educacionIT-finde/main/boton_diapositiva.png?token=GHSAT0AAAAAABYJWQ5N6CK2LUWKAMIMLJQCYZRBTFA)](https://github.com/GiorgioCode/repo-educacionIT-finde/blob/main/CLASE_01/CLASE1_JSDC_J_PAEZ.pptx?raw=true)
 
 ---
 
